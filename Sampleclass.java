@@ -6,6 +6,7 @@ public class Sampleclass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Made some changes with Github and Jenkins");
 		Calculator calculator1 = new Calculator(5);
 		Calculator calculator2 = new Calculator(150);
 		
